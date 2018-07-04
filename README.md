@@ -5,6 +5,9 @@
 # 联系我
 ease@scwy.net or scwy@qq.com
 
+# 关于我
+一个老电子、电脑爱好者
+
 # 鼓励我
 毕竟还是花了午餐时间来不断修改，希望得到大家的支持和鼓励。
 ![](http://wyyyh.3322.org:8181/uploads/201807/say/attach_153e1245dc3607f3.JPG)
